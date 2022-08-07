@@ -110,7 +110,7 @@
   }
 }
 /* Mobile */
-@media (max-width: 739px) {
+@media (max-width: 740px) {
   .main__category-selection {
     display: none;
   }

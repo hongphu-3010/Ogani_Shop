@@ -212,6 +212,7 @@
   padding: 3.5rem 0 0 2.2rem;
   transition: transform ease-in 0.5s;
   transform: translateX(-120%);
+  overflow-y: auto;
 }
 .modal-close {
   font-size: 3.4rem;
