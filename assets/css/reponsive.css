@@ -134,8 +134,16 @@
   .the-blog__item {
     margin-bottom: 4rem;
   }
-  body {
-    padding: 0 2rem;
+
+  .product__type,
+  .featured,
+  .categories__slider,
+  .main__content,
+  .header,
+  .the-blog,
+  .footer {
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
   .footer__useful {
     margin: 3.5rem 0;
